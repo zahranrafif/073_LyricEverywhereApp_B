@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lyrics Everywhere</string>
+    <string name="id_lagu">ID Lagu</string>S
+    <string name="judul_lagu">Judul Lagu</string>
+    <string name="artist">Artist</string>
+    <string name="gambar">Gambar Lagu</string>
+    <string name="album">Album</string>
+    <string name="lirik_lagu">Lirik Lagu</string>
+    <string name="link">Link Lagu</string>
+    <string name="tambah">Tambah Lagu</string>
+    <string name="edit">Edit Lagu</string>
+    <string name="hapus">Hapus Lagu</string>
+    <string name="bagikan">Bagikan Lagu</string>
+    <string name="inputlagu">Masukkan Lirik</string>
+    <string name="username">nama</string>
+
+
+</resources>

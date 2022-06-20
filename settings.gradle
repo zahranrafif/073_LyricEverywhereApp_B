@@ -1,0 +1,2 @@
+rootProject.name='LyricEverywhereApp'
+include ':app'
